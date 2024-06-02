@@ -1,7 +1,7 @@
 kind: Cluster
 name: omni-contrib
 talos:
-  version: v1.7.6
+  version: v1.6.7
 kubernetes:
   version: 1.29.5
 features:
